@@ -1,0 +1,16 @@
+
+
+.counterControls {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ 
+ .btnControl {
+    width: 150px;
+    height: 50px;
+    border-radius: 5%;
+    background-color: bisque;
+    cursor: pointer;
+ }
